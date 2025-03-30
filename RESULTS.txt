@@ -1,0 +1,90 @@
+Running Experiment on data/kroA200.tsp (Random Initialization)
+=== Results for data/kroA200.tsp ===
+
+**Objective Function Values**
+Algorithm    Min        Max        Mean
+Steepest_V   63783      85227      73583.84
+Steepest_E   35788      41799      38619.00
+Greedy_V     56854      82352      66868.58
+Greedy_E     36125      41088      38778.28
+
+**Execution Times (s)**
+Algorithm    Min        Max        Mean
+Steepest_V   4.08       5.91       4.90
+Steepest_E   3.32       4.16       3.74
+Greedy_V     15.33      20.62      17.62
+Greedy_E     14.07      18.07      15.79
+
+Running Experiment on data/kroA200.tsp (Greedy Initialization)
+=== Results for data/kroA200.tsp ===
+
+**Objective Function Values**
+Algorithm    Min        Max        Mean
+Steepest_V   34563      45919      39135.02
+Steepest_E   31474      37108      34213.76
+Greedy_V     35094      45765      39280.36
+Greedy_E     31636      37717      34978.76
+
+**Execution Times (s)**
+Algorithm    Min        Max        Mean
+Steepest_V   0.20       0.63       0.42
+Steepest_E   0.58       1.21       0.81
+Greedy_V     0.25       1.59       0.77
+Greedy_E     1.16       2.79       1.78
+
+Running Experiment on data/kroA200.tsp (Random Walk)
+=== Results for data/kroA200.tsp ===
+
+**Objective Function Values**
+Algorithm    Min        Max        Mean
+Random_Walk  271676     285587     281003.28
+
+**Execution Times (s)**
+Algorithm    Min        Max        Mean
+Random_Walk  17.62      17.62      17.62
+
+
+Running Experiment on data/kroB200.tsp (Random Initialization)
+=== Results for data/kroB200.tsp ===
+
+**Objective Function Values**
+Algorithm    Min        Max        Mean
+Steepest_V   57133      87696      71369.02
+Steepest_E   37002      40703      38784.48
+Greedy_V     55638      74526      65570.12
+Greedy_E     36277      40721      38747.44
+
+**Execution Times (s)**
+Algorithm    Min        Max        Mean
+Steepest_V   4.08       6.35       5.16
+Steepest_E   3.36       4.68       3.89
+Greedy_V     15.47      23.48      18.47
+Greedy_E     14.42      18.82      16.56
+
+Running Experiment on data/kroB200.tsp (Greedy Initialization)
+=== Results for data/kroB200.tsp ===
+
+**Objective Function Values**
+Algorithm    Min        Max        Mean
+Steepest_V   35937      42724      39301.88
+Steepest_E   31941      37619      34751.52
+Greedy_V     35862      42657      39369.88
+Greedy_E     32078      38777      35431.92
+
+**Execution Times (s)**
+Algorithm    Min        Max        Mean
+Steepest_V   0.09       0.63       0.36
+Steepest_E   0.53       1.13       0.75
+Greedy_V     0.11       1.07       0.59
+Greedy_E     0.86       2.62       1.57
+
+Running Experiment on data/kroB200.tsp (Random Walk)
+=== Results for data/kroB200.tsp ===
+
+**Objective Function Values**
+Algorithm    Min        Max        Mean
+Random_Walk  270202     281053     276015.98
+
+**Execution Times (s)**
+Algorithm    Min        Max        Mean
+Random_Walk  18.47      18.47      18.47
