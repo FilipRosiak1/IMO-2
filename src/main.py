@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import os
 
 
-RUNS = 50
+RUNS = 100
 INSTANCES = ["data/kroA200.tsp", "data/kroB200.tsp"]
 INSTANCES = ["data/kroB200.tsp"]
 
