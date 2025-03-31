@@ -12,7 +12,6 @@ import os
 
 RUNS = 100
 INSTANCES = ["data/kroA200.tsp", "data/kroB200.tsp"]
-INSTANCES = ["data/kroB200.tsp"]
 
 def run_experiment(distance_matrix, initialization="random"):
     results = {alg: [] for alg in ["Steepest_V", "Steepest_E", "Greedy_V", "Greedy_E"]}
